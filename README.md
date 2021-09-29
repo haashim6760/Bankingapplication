@@ -1,3 +1,3 @@
 # Bankingapplication
 
-This project operates as a bankking application, and can be used to complete various banking related functions, such as check balance, deposit funds, withdraw funds, and exit. 
+This repository operates as a banking application, and can be used to complete various banking related functions, such as check balance, deposit funds, withdraw funds, and exit. 
